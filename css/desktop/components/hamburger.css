@@ -1,0 +1,7 @@
+.mobilemenu,
+label[for="mobilemenu"],
+label[for="close"],
+#mobilemenu,
+#close {
+  display: none;
+} /*# sourceMappingURL=hamburger.css.map */
